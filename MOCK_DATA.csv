@@ -1,0 +1,1001 @@
+flightNumber,from,to,arrival,departure,status
+3477,Thiruvananthapuram,Calicut,6/16/2021,1/28/2022,Departed
+2383,Bangalore,Agartala,11/15/2021,12/15/2021,Arriving Late By 30mins
+1433,Srinagar,Indore,10/19/2021,4/15/2021,Departed
+3582,Pune,Bangalore,10/7/2021,7/6/2021,Departing Early By 30mins
+2779,Indore,Mumbai,6/28/2021,3/11/2021,On Time
+3864,Mangalore,Naqpur,8/17/2021,1/12/2022,Departed
+1529,Hyderabad City,Amritsar,11/6/2021,1/18/2022,On Time
+4637,Vasco da Gama,Madurai,10/24/2021,1/27/2022,Departing Early By 30mins
+3836,Patna,Visakhapatnam,9/23/2021,7/1/2021,Departing Late By 30mins
+4731,Srinagar,Ahmedabad,3/27/2021,6/6/2021,On Time
+2110,Agartala,Mangalore,5/22/2021,2/25/2021,Departing Early By 30mins
+1840,Mangalore,New Delhi,9/6/2021,3/31/2021,Departing Early By 30mins
+2147,Naqpur,Kochi,11/28/2021,10/13/2021,Departing Late By 30mins
+3698,Bangalore,Naqpur,4/17/2021,11/11/2021,Arriving Late By 30mins
+1347,Thiruvananthapuram,Amritsar,1/17/2022,3/24/2021,Departing Late By 30mins
+1435,Mumbai,Jammu,8/18/2021,8/2/2021,Departing Late By 30mins
+4472,Hyderabad City,Agartala,5/25/2021,4/22/2021,Departing Early By 30mins
+3317,Srinagar,Visakhapatnam,6/18/2021,6/3/2021,Departed
+1676,Jaipur,Patna,10/29/2021,11/23/2021,Departed
+1425,Chandigarh,Naqpur,9/6/2021,9/14/2021,On Time
+3333,Calicut,Agartala,3/6/2021,7/24/2021,Departing Early By 30mins
+2238,Jammu,Jaipur,2/5/2022,11/11/2021,Departing Late By 30mins
+4057,Kolkata,Calicut,4/17/2021,8/31/2021,Departed
+1399,Visakhapatnam,Kochi,10/6/2021,4/1/2021,Departing Late By 30mins
+1452,Madurai,Agartala,8/12/2021,3/2/2021,Departing Late By 30mins
+4538,Kolkata,Jammu,10/24/2021,11/17/2021,Arriving Late By 30mins
+2528,Kochi,Visakhapatnam,1/19/2022,7/15/2021,Arriving Early By 30mins
+3219,Madurai,Agartala,10/7/2021,5/26/2021,Arriving Early By 30mins
+3590,Calicut,Jaipur,6/8/2021,4/1/2021,Arriving Late By 30mins
+1395,Chennai,Srinagar,6/8/2021,11/29/2021,Departing Late By 30mins
+4038,Port Blair,Jaipur,2/22/2021,4/12/2021,Arriving Late By 30mins
+1263,Tiruchirappally,Ahmedabad,7/3/2021,10/19/2021,On Time
+4021,Mumbai,Guwahati,5/16/2021,9/11/2021,On Time
+2073,Tiruchirappally,Mumbai,12/28/2021,10/3/2021,Arriving Early By 30mins
+2694,Kochi,Coimbatore,2/9/2022,8/16/2021,Departing Late By 30mins
+2012,New Delhi,Kolkata,9/8/2021,4/22/2021,Departing Late By 30mins
+4213,Mumbai,Amritsar,9/26/2021,6/11/2021,On Time
+2589,New Delhi,Agartala,4/19/2021,7/20/2021,Departing Early By 30mins
+4273,Calicut,Pune,10/28/2021,9/2/2021,On Time
+3958,Pune,Visakhapatnam,7/21/2021,7/1/2021,Departing Late By 30mins
+2905,Coimbatore,Chennai,4/15/2021,12/11/2021,Departed
+1054,Agartala,Srinagar,1/8/2022,7/29/2021,Arriving Early By 30mins
+1839,Thiruvananthapuram,Ahmedabad,2/22/2021,8/13/2021,Departed
+4785,Mumbai,Visakhapatnam,8/25/2021,7/1/2021,Departed
+1092,Naqpur,Visakhapatnam,6/17/2021,6/21/2021,On Time
+3413,Chandigarh,Mumbai,8/21/2021,6/27/2021,Arriving Early By 30mins
+1961,Bangalore,New Delhi,12/13/2021,3/28/2021,Departing Late By 30mins
+3398,Jammu,Hyderabad City,2/19/2022,1/23/2022,On Time
+1727,Amritsar,Mangalore,10/3/2021,7/21/2021,Departed
+2746,Patna,Indore,10/4/2021,8/30/2021,Arriving Late By 30mins
+1391,Amritsar,Chandigarh,4/26/2021,11/20/2021,Arriving Early By 30mins
+4181,Coimbatore,Hyderabad City,6/17/2021,4/2/2021,On Time
+3503,Naqpur,Jammu,7/17/2021,1/21/2022,Arriving Early By 30mins
+3796,Port Blair,Mangalore,11/26/2021,3/22/2021,Arriving Early By 30mins
+4900,Srinagar,Mangalore,5/23/2021,11/10/2021,Arriving Early By 30mins
+4003,Amritsar,Vasco da Gama,1/30/2022,9/27/2021,Arriving Late By 30mins
+4857,Thiruvananthapuram,Jaipur,5/2/2021,6/13/2021,On Time
+3465,Lucknow,Visakhapatnam,4/5/2021,5/13/2021,On Time
+1545,Amritsar,New Delhi,9/1/2021,5/1/2021,Departing Late By 30mins
+1186,Srinagar,Jaipur,6/8/2021,2/4/2022,Arriving Early By 30mins
+2418,Mangalore,Naqpur,4/28/2021,12/8/2021,On Time
+3900,Srinagar,Guwahati,3/2/2021,9/14/2021,Departed
+4080,Amritsar,Madurai,9/11/2021,9/23/2021,Departing Late By 30mins
+2776,Bangalore,Calicut,9/12/2021,3/3/2021,Departed
+4466,Pune,Patna,2/7/2022,10/14/2021,Departing Early By 30mins
+3185,Chandigarh,Siliguri,7/11/2021,5/1/2021,Arriving Early By 30mins
+4754,Madurai,Naqpur,5/11/2021,10/20/2021,On Time
+1249,Jaipur,Vasco da Gama,9/4/2021,9/14/2021,Arriving Late By 30mins
+2832,Srinagar,Chandigarh,11/13/2021,7/13/2021,Departing Early By 30mins
+3596,Pune,Srinagar,3/18/2021,2/12/2022,On Time
+1509,Tiruchirappally,Calicut,8/2/2021,2/6/2022,Departing Late By 30mins
+1501,Coimbatore,Chennai,9/26/2021,12/26/2021,On Time
+1934,Indore,Indore,3/9/2021,12/28/2021,Arriving Early By 30mins
+2307,New Delhi,Ahmedabad,3/3/2021,10/10/2021,Departing Late By 30mins
+3585,Port Blair,Agartala,1/16/2022,10/2/2021,Departing Late By 30mins
+2986,Mangalore,Kochi,9/12/2021,5/12/2021,Departing Late By 30mins
+2185,Mumbai,Coimbatore,10/11/2021,4/18/2021,Arriving Late By 30mins
+1617,Naqpur,Ahmedabad,9/17/2021,9/13/2021,Departed
+3096,Guwahati,Hyderabad City,2/14/2022,12/29/2021,Departing Early By 30mins
+4219,Mumbai,Kochi,2/27/2021,4/1/2021,Departing Late By 30mins
+4932,Mumbai,Coimbatore,10/10/2021,12/21/2021,Arriving Early By 30mins
+4579,Mumbai,Srinagar,10/23/2021,8/5/2021,Arriving Early By 30mins
+1556,Coimbatore,Calicut,2/17/2022,6/6/2021,Arriving Early By 30mins
+1640,Agartala,Thiruvananthapuram,9/1/2021,5/16/2021,Arriving Early By 30mins
+1788,Kochi,Lucknow,12/26/2021,6/24/2021,Departing Late By 30mins
+3740,Naqpur,Hyderabad City,7/25/2021,9/7/2021,Departed
+4414,Chandigarh,Pune,8/9/2021,9/27/2021,Arriving Late By 30mins
+4190,Tiruchirappally,Mumbai,12/14/2021,2/21/2022,Departed
+4789,Tiruchirappally,Srinagar,4/20/2021,2/4/2022,Departed
+4362,Srinagar,Amritsar,6/7/2021,12/20/2021,Arriving Late By 30mins
+3196,Mumbai,Ahmedabad,8/2/2021,6/14/2021,Departed
+4864,Siliguri,New Delhi,3/6/2021,1/1/2022,On Time
+1542,Indore,Guwahati,11/28/2021,1/12/2022,Departed
+3197,Naqpur,Chennai,4/23/2021,9/6/2021,Arriving Late By 30mins
+3063,Siliguri,Patna,4/28/2021,8/23/2021,Departed
+3168,Patna,Calicut,12/11/2021,6/22/2021,Arriving Early By 30mins
+1652,Thiruvananthapuram,Lucknow,8/10/2021,1/2/2022,On Time
+4043,Naqpur,Jammu,7/8/2021,1/24/2022,Departing Early By 30mins
+3253,Lucknow,Guwahati,7/8/2021,12/5/2021,Arriving Early By 30mins
+4329,Bangalore,Calicut,1/2/2022,8/5/2021,Departing Late By 30mins
+2769,Hyderabad City,Calicut,11/10/2021,5/15/2021,Departed
+1222,Jammu,Chennai,11/18/2021,8/19/2021,Departing Late By 30mins
+1003,Guwahati,Indore,10/19/2021,5/22/2021,Departed
+4645,Naqpur,Guwahati,10/22/2021,12/12/2021,On Time
+2233,Visakhapatnam,Mangalore,2/22/2022,4/3/2021,Departing Early By 30mins
+4439,Kolkata,Chennai,6/10/2021,9/26/2021,Arriving Late By 30mins
+4626,Madurai,Vasco da Gama,5/19/2021,6/3/2021,Departing Early By 30mins
+3056,Kolkata,Calicut,2/23/2021,11/21/2021,Departed
+2808,Mangalore,Hyderabad City,11/20/2021,1/3/2022,Arriving Early By 30mins
+3515,Jammu,Vasco da Gama,5/19/2021,12/7/2021,Departed
+4078,Kochi,Jammu,4/3/2021,1/1/2022,Arriving Late By 30mins
+1634,Siliguri,Agartala,3/17/2021,7/18/2021,Departed
+1006,Jaipur,Mangalore,7/25/2021,7/30/2021,On Time
+4938,Port Blair,Agartala,1/9/2022,1/25/2022,Departing Late By 30mins
+1754,Siliguri,Patna,10/6/2021,7/4/2021,Departing Early By 30mins
+3356,Naqpur,Bangalore,1/24/2022,5/17/2021,Departing Early By 30mins
+3399,Mangalore,Jaipur,4/28/2021,3/7/2021,Departing Early By 30mins
+4727,Visakhapatnam,Chennai,3/30/2021,12/6/2021,Arriving Early By 30mins
+1295,Calicut,Mumbai,12/13/2021,2/1/2022,Departing Early By 30mins
+3102,Coimbatore,Lucknow,8/30/2021,4/2/2021,Departing Early By 30mins
+2704,Vasco da Gama,New Delhi,6/28/2021,7/9/2021,Departing Early By 30mins
+3604,New Delhi,Bangalore,9/3/2021,5/19/2021,Departing Early By 30mins
+3533,Hyderabad City,Visakhapatnam,5/13/2021,11/25/2021,Departed
+1069,Lucknow,Kolkata,3/9/2021,2/9/2022,Departing Early By 30mins
+3203,Thiruvananthapuram,Pune,8/25/2021,2/14/2022,Arriving Early By 30mins
+2602,Jammu,Siliguri,12/26/2021,12/4/2021,Departing Early By 30mins
+1540,Chennai,Tiruchirappally,3/1/2021,3/17/2021,Departed
+4012,Mumbai,Jaipur,5/24/2021,10/17/2021,On Time
+1981,Ahmedabad,Vasco da Gama,4/23/2021,9/17/2021,Arriving Late By 30mins
+1090,Coimbatore,Amritsar,6/2/2021,8/9/2021,Departing Early By 30mins
+4743,Hyderabad City,Coimbatore,12/19/2021,4/25/2021,Arriving Late By 30mins
+4036,Madurai,Port Blair,10/31/2021,4/5/2021,Departing Late By 30mins
+2300,Hyderabad City,Hyderabad City,7/21/2021,11/5/2021,Departing Late By 30mins
+3136,Srinagar,Jaipur,1/17/2022,4/11/2021,Arriving Early By 30mins
+3218,Siliguri,Chandigarh,10/15/2021,11/3/2021,Departed
+2727,Srinagar,Thiruvananthapuram,5/7/2021,2/15/2022,Departed
+2770,Naqpur,Tiruchirappally,8/26/2021,2/24/2021,Departed
+3630,Mangalore,Amritsar,8/12/2021,9/9/2021,Departing Early By 30mins
+2571,Madurai,Calicut,9/1/2021,11/23/2021,Arriving Early By 30mins
+2872,Siliguri,Guwahati,2/17/2022,11/19/2021,On Time
+1245,Indore,Visakhapatnam,4/12/2021,8/2/2021,Departing Late By 30mins
+3407,Chandigarh,Chennai,8/20/2021,1/2/2022,Departing Late By 30mins
+2923,Jaipur,Srinagar,5/14/2021,9/5/2021,Arriving Early By 30mins
+1373,Port Blair,Hyderabad City,6/9/2021,8/27/2021,Departed
+2585,Tiruchirappally,Tiruchirappally,2/12/2022,12/3/2021,On Time
+4344,Mumbai,Jaipur,3/22/2021,3/4/2021,Arriving Early By 30mins
+3354,Patna,Guwahati,6/17/2021,7/16/2021,On Time
+2366,Indore,Jaipur,6/12/2021,6/25/2021,Arriving Late By 30mins
+3336,Mangalore,Calicut,2/5/2022,12/31/2021,On Time
+1123,Vasco da Gama,Vasco da Gama,9/17/2021,8/21/2021,Arriving Early By 30mins
+1331,Vasco da Gama,Pune,12/20/2021,5/18/2021,Departed
+3053,Kochi,Visakhapatnam,8/26/2021,10/17/2021,Departing Late By 30mins
+1534,Chandigarh,Patna,7/25/2021,1/23/2022,Arriving Early By 30mins
+2007,Patna,Port Blair,1/16/2022,8/25/2021,On Time
+4975,Tiruchirappally,Amritsar,7/26/2021,12/9/2021,On Time
+3842,Siliguri,Agartala,5/10/2021,12/7/2021,Departed
+1586,Bangalore,Jammu,10/29/2021,7/17/2021,Departed
+4187,Mumbai,Tiruchirappally,10/24/2021,5/31/2021,Departing Late By 30mins
+2201,Jammu,Jammu,1/11/2022,12/6/2021,Arriving Early By 30mins
+2491,Coimbatore,Coimbatore,9/7/2021,12/30/2021,Arriving Early By 30mins
+2657,Bangalore,Ahmedabad,2/1/2022,3/31/2021,Arriving Late By 30mins
+3410,Pune,Siliguri,11/7/2021,2/16/2022,On Time
+1649,Patna,Coimbatore,3/1/2021,7/31/2021,Departing Early By 30mins
+3691,New Delhi,Jammu,7/4/2021,3/21/2021,Departed
+2425,Amritsar,Bangalore,1/25/2022,10/16/2021,Departed
+2080,Kolkata,Mangalore,5/8/2021,6/15/2021,Arriving Late By 30mins
+1628,Naqpur,Port Blair,11/2/2021,11/27/2021,Departing Early By 30mins
+1017,Amritsar,Amritsar,7/6/2021,11/14/2021,Arriving Late By 30mins
+4798,Ahmedabad,Chennai,7/7/2021,6/5/2021,Arriving Late By 30mins
+2118,Vasco da Gama,Srinagar,1/15/2022,2/15/2022,Departing Early By 30mins
+1271,Chandigarh,Coimbatore,5/20/2021,11/3/2021,Departing Late By 30mins
+4714,Mumbai,Madurai,3/14/2021,1/29/2022,Arriving Late By 30mins
+2459,Agartala,Naqpur,12/20/2021,10/18/2021,Departing Early By 30mins
+3889,Chandigarh,Kolkata,9/13/2021,9/20/2021,Arriving Late By 30mins
+4393,Agartala,Kolkata,5/31/2021,7/28/2021,Departing Early By 30mins
+4640,Agartala,Kolkata,7/21/2021,3/3/2021,On Time
+2070,Kolkata,Lucknow,3/29/2021,11/27/2021,Arriving Early By 30mins
+4978,Kochi,Kolkata,7/17/2021,1/9/2022,On Time
+4725,Thiruvananthapuram,Guwahati,8/18/2021,3/4/2021,Departed
+3724,Lucknow,Hyderabad City,1/8/2022,1/25/2022,Departed
+3863,Mumbai,Vasco da Gama,11/14/2021,9/7/2021,Arriving Late By 30mins
+1247,Ahmedabad,Patna,1/28/2022,8/23/2021,On Time
+2361,Chandigarh,Agartala,6/19/2021,12/19/2021,Departing Early By 30mins
+1118,Siliguri,Ahmedabad,6/26/2021,9/19/2021,Departing Late By 30mins
+2352,Pune,Jammu,1/12/2022,5/14/2021,On Time
+4508,Srinagar,Lucknow,9/1/2021,11/22/2021,Arriving Late By 30mins
+4331,Thiruvananthapuram,Hyderabad City,7/6/2021,9/6/2021,Departing Late By 30mins
+4539,Naqpur,New Delhi,9/8/2021,2/6/2022,On Time
+4433,Amritsar,Patna,7/18/2021,4/7/2021,Departing Late By 30mins
+2103,Thiruvananthapuram,Thiruvananthapuram,7/26/2021,4/19/2021,Departing Early By 30mins
+1364,Bangalore,Mumbai,6/12/2021,6/29/2021,Arriving Early By 30mins
+4768,Coimbatore,Guwahati,6/3/2021,3/9/2021,On Time
+4474,Calicut,Jaipur,8/8/2021,3/21/2021,On Time
+4928,Visakhapatnam,Indore,5/23/2021,7/14/2021,Arriving Late By 30mins
+3171,Pune,Tiruchirappally,11/20/2021,3/13/2021,Departing Early By 30mins
+3830,New Delhi,Kochi,9/29/2021,7/15/2021,On Time
+2890,Chandigarh,Port Blair,10/24/2021,11/30/2021,Arriving Early By 30mins
+3694,Patna,Coimbatore,9/14/2021,8/11/2021,On Time
+4738,Calicut,Guwahati,1/4/2022,12/29/2021,Arriving Late By 30mins
+1684,Vasco da Gama,Kochi,9/30/2021,9/14/2021,Departing Early By 30mins
+3447,Tiruchirappally,Pune,10/7/2021,10/3/2021,Departing Late By 30mins
+3479,Guwahati,Siliguri,11/6/2021,4/26/2021,Arriving Late By 30mins
+2913,Pune,Lucknow,7/19/2021,9/14/2021,On Time
+1993,Mangalore,Lucknow,6/5/2021,9/11/2021,Arriving Early By 30mins
+3825,Siliguri,Coimbatore,9/10/2021,7/31/2021,Departed
+4739,Coimbatore,Calicut,9/21/2021,12/17/2021,Departed
+2844,Jammu,Ahmedabad,7/10/2021,6/1/2021,On Time
+1385,Indore,Jammu,7/18/2021,11/26/2021,Departing Early By 30mins
+1139,Pune,Kochi,7/14/2021,6/4/2021,Departing Early By 30mins
+1061,Thiruvananthapuram,Tiruchirappally,1/8/2022,12/2/2021,On Time
+3813,Port Blair,Tiruchirappally,12/30/2021,4/13/2021,Departed
+1717,Indore,Jammu,1/10/2022,10/31/2021,Arriving Late By 30mins
+3196,Siliguri,Patna,12/17/2021,6/3/2021,On Time
+3977,Hyderabad City,Madurai,5/6/2021,9/12/2021,Arriving Early By 30mins
+2876,Tiruchirappally,Mangalore,11/15/2021,11/15/2021,Departed
+3457,Siliguri,Madurai,3/19/2021,4/26/2021,Arriving Late By 30mins
+1817,Mangalore,Calicut,7/22/2021,9/27/2021,Departing Late By 30mins
+1674,Hyderabad City,Agartala,7/7/2021,4/26/2021,On Time
+2330,Calicut,Vasco da Gama,8/19/2021,12/28/2021,Departed
+1536,Port Blair,Guwahati,4/21/2021,4/19/2021,Departing Late By 30mins
+4951,Jaipur,Agartala,5/14/2021,8/11/2021,Arriving Early By 30mins
+4234,Hyderabad City,Bangalore,4/25/2021,9/14/2021,Departing Late By 30mins
+4277,Guwahati,Patna,7/14/2021,4/28/2021,Departing Late By 30mins
+2079,Thiruvananthapuram,Madurai,5/22/2021,3/16/2021,Departing Early By 30mins
+3966,Srinagar,Guwahati,11/16/2021,5/11/2021,Departed
+1144,Bangalore,Coimbatore,1/9/2022,1/5/2022,Arriving Early By 30mins
+4069,Mumbai,Mumbai,5/10/2021,2/13/2022,Departing Early By 30mins
+2473,Pune,Indore,2/11/2022,4/14/2021,Departing Early By 30mins
+2478,Pune,Chennai,9/4/2021,8/8/2021,Arriving Early By 30mins
+1272,Guwahati,Bangalore,4/30/2021,6/9/2021,Departed
+2742,Thiruvananthapuram,Coimbatore,7/27/2021,9/10/2021,Departing Early By 30mins
+2100,Chennai,Jammu,6/5/2021,11/2/2021,Arriving Early By 30mins
+3154,Guwahati,Hyderabad City,2/16/2022,8/22/2021,Arriving Early By 30mins
+2245,Vasco da Gama,Lucknow,9/14/2021,9/20/2021,Arriving Late By 30mins
+3320,Calicut,Lucknow,8/2/2021,7/21/2021,On Time
+1266,Patna,Lucknow,6/8/2021,7/6/2021,Arriving Early By 30mins
+3415,Indore,Amritsar,11/27/2021,10/30/2021,Arriving Late By 30mins
+1815,Guwahati,Jaipur,3/5/2021,12/26/2021,Arriving Late By 30mins
+1253,Chennai,Pune,10/15/2021,5/18/2021,Arriving Late By 30mins
+2568,Coimbatore,Siliguri,5/13/2021,8/6/2021,Departing Early By 30mins
+4678,Kolkata,Visakhapatnam,12/20/2021,6/17/2021,Departing Late By 30mins
+1219,Bangalore,Hyderabad City,2/24/2021,1/6/2022,On Time
+2434,Ahmedabad,Tiruchirappally,11/29/2021,1/31/2022,Departing Late By 30mins
+1567,Chennai,Mangalore,8/9/2021,6/17/2021,Departed
+1549,Amritsar,Chennai,1/10/2022,1/9/2022,Departed
+1907,Kochi,Indore,6/27/2021,4/29/2021,Arriving Late By 30mins
+2131,Lucknow,Guwahati,7/20/2021,6/21/2021,Departing Late By 30mins
+3761,Siliguri,Indore,1/15/2022,9/12/2021,Arriving Late By 30mins
+4103,Indore,Naqpur,3/11/2021,1/21/2022,Arriving Early By 30mins
+1203,Kochi,Guwahati,12/7/2021,9/16/2021,Departing Early By 30mins
+2363,Thiruvananthapuram,Coimbatore,5/9/2021,12/24/2021,Departing Late By 30mins
+4988,Patna,Calicut,11/24/2021,1/25/2022,Departing Early By 30mins
+1416,Indore,Calicut,2/25/2021,8/29/2021,Departing Early By 30mins
+4481,Visakhapatnam,Mangalore,5/30/2021,9/26/2021,Departing Early By 30mins
+4671,Mumbai,Vasco da Gama,9/1/2021,3/14/2021,Arriving Early By 30mins
+1661,Indore,New Delhi,9/18/2021,3/2/2021,Arriving Early By 30mins
+4397,New Delhi,Calicut,9/27/2021,6/15/2021,Departing Late By 30mins
+4634,Port Blair,Bangalore,12/18/2021,6/20/2021,Departed
+2443,Kolkata,Thiruvananthapuram,3/23/2021,7/4/2021,Arriving Late By 30mins
+2070,Hyderabad City,Indore,9/15/2021,12/4/2021,Departed
+1937,Chennai,Coimbatore,3/28/2021,8/19/2021,Arriving Late By 30mins
+2828,Guwahati,Thiruvananthapuram,5/20/2021,3/6/2021,Departing Late By 30mins
+3733,Chennai,Thiruvananthapuram,11/30/2021,4/6/2021,Arriving Early By 30mins
+3320,Chennai,Visakhapatnam,7/27/2021,1/8/2022,Arriving Late By 30mins
+1154,Srinagar,Pune,6/11/2021,6/17/2021,Departed
+4630,Siliguri,Indore,12/18/2021,4/6/2021,Arriving Late By 30mins
+1825,Lucknow,Siliguri,2/14/2022,12/23/2021,Departing Early By 30mins
+1304,Bangalore,New Delhi,10/26/2021,9/18/2021,Departing Late By 30mins
+3470,Bangalore,Kolkata,10/25/2021,12/26/2021,Departing Early By 30mins
+4514,Bangalore,Madurai,11/27/2021,1/2/2022,Arriving Late By 30mins
+2291,Srinagar,Visakhapatnam,9/25/2021,10/29/2021,Arriving Late By 30mins
+4858,Siliguri,Jammu,11/18/2021,1/2/2022,Departing Early By 30mins
+1882,Indore,Pune,9/27/2021,4/17/2021,Departed
+4752,Naqpur,Kochi,9/14/2021,7/30/2021,Departed
+2289,Thiruvananthapuram,Mangalore,9/25/2021,12/2/2021,Arriving Early By 30mins
+4783,Bangalore,Kochi,3/27/2021,2/19/2022,Departing Early By 30mins
+1518,Mumbai,Pune,6/8/2021,8/2/2021,On Time
+1473,Thiruvananthapuram,Jaipur,4/11/2021,10/4/2021,Departing Early By 30mins
+4852,Chandigarh,Visakhapatnam,8/19/2021,3/28/2021,On Time
+3194,Bangalore,Srinagar,1/4/2022,7/14/2021,On Time
+4158,Port Blair,Siliguri,8/17/2021,6/18/2021,Arriving Early By 30mins
+4570,Pune,Visakhapatnam,7/19/2021,3/23/2021,Arriving Early By 30mins
+3258,Pune,Bangalore,9/24/2021,1/14/2022,Departed
+4153,Patna,Thiruvananthapuram,6/12/2021,6/30/2021,Departed
+3243,Chennai,Coimbatore,3/24/2021,8/23/2021,Departed
+2336,Chandigarh,Kochi,11/26/2021,7/10/2021,Departing Early By 30mins
+3470,Coimbatore,Mumbai,5/5/2021,5/16/2021,Arriving Late By 30mins
+2893,Lucknow,Jaipur,11/26/2021,9/21/2021,Arriving Early By 30mins
+2407,Port Blair,Vasco da Gama,9/14/2021,7/4/2021,Departing Early By 30mins
+2809,Mangalore,Siliguri,9/19/2021,4/22/2021,Departing Early By 30mins
+1132,Siliguri,New Delhi,2/20/2022,8/17/2021,Departed
+4128,New Delhi,Port Blair,9/21/2021,4/21/2021,Arriving Early By 30mins
+1437,Siliguri,Patna,7/3/2021,2/7/2022,Departing Late By 30mins
+1872,Srinagar,Srinagar,7/3/2021,8/25/2021,Departing Early By 30mins
+1106,Vasco da Gama,Kolkata,9/3/2021,11/20/2021,Departed
+3276,Kochi,Calicut,11/13/2021,9/27/2021,Departed
+4008,Lucknow,Indore,11/24/2021,4/13/2021,Departing Early By 30mins
+3968,Guwahati,Jammu,10/5/2021,11/6/2021,Departing Early By 30mins
+3860,Calicut,New Delhi,7/9/2021,2/15/2022,Departing Late By 30mins
+3205,Thiruvananthapuram,Mangalore,8/7/2021,7/13/2021,Departing Early By 30mins
+1689,Patna,Mangalore,12/19/2021,12/29/2021,On Time
+4359,Madurai,Bangalore,1/6/2022,3/20/2021,Departed
+2458,Patna,Amritsar,11/22/2021,7/30/2021,Departing Early By 30mins
+3561,Guwahati,Madurai,7/15/2021,10/15/2021,On Time
+1946,Naqpur,Tiruchirappally,10/18/2021,3/3/2021,Departing Late By 30mins
+2848,Chennai,Jammu,2/4/2022,5/7/2021,Departing Late By 30mins
+3730,Ahmedabad,Jaipur,6/21/2021,7/10/2021,On Time
+3751,Siliguri,Mumbai,7/26/2021,6/14/2021,Arriving Late By 30mins
+1875,Coimbatore,Guwahati,4/19/2021,3/8/2021,On Time
+3240,Srinagar,Patna,2/25/2021,12/22/2021,Arriving Early By 30mins
+3744,Patna,Guwahati,9/14/2021,7/3/2021,Departing Late By 30mins
+2932,Jaipur,Amritsar,9/25/2021,4/18/2021,On Time
+1145,Vasco da Gama,Calicut,8/3/2021,7/7/2021,On Time
+4972,Port Blair,Coimbatore,9/25/2021,10/8/2021,Departing Early By 30mins
+1527,Madurai,Jaipur,2/13/2022,11/4/2021,Arriving Early By 30mins
+2854,Ahmedabad,Jaipur,7/17/2021,7/4/2021,Departing Late By 30mins
+3617,Hyderabad City,Ahmedabad,2/19/2022,1/1/2022,Departed
+4238,Amritsar,Coimbatore,9/27/2021,4/13/2021,Departing Early By 30mins
+2408,Port Blair,Pune,7/3/2021,12/7/2021,Departing Early By 30mins
+3484,Agartala,Mangalore,11/25/2021,2/4/2022,Arriving Late By 30mins
+3428,New Delhi,New Delhi,9/4/2021,3/15/2021,Departing Late By 30mins
+4942,Visakhapatnam,Patna,2/11/2022,12/21/2021,Departed
+4262,Chandigarh,Mangalore,12/16/2021,1/10/2022,Departed
+3820,Indore,Kochi,6/14/2021,4/27/2021,Arriving Late By 30mins
+1180,Mumbai,Madurai,6/17/2021,1/6/2022,Arriving Late By 30mins
+2696,Madurai,Tiruchirappally,2/16/2022,8/17/2021,Arriving Late By 30mins
+4360,Madurai,Chandigarh,7/20/2021,9/6/2021,Departed
+2814,Srinagar,Naqpur,4/14/2021,12/20/2021,Arriving Late By 30mins
+3881,Mangalore,Srinagar,5/11/2021,11/23/2021,On Time
+3922,Mumbai,Siliguri,10/11/2021,10/15/2021,Departing Early By 30mins
+4575,Port Blair,Amritsar,4/29/2021,8/20/2021,Departing Late By 30mins
+2726,Calicut,Kolkata,11/19/2021,6/8/2021,Departing Late By 30mins
+1227,Lucknow,Kochi,7/6/2021,3/18/2021,Departing Early By 30mins
+4523,Lucknow,Madurai,8/29/2021,12/7/2021,Departed
+2792,Port Blair,Hyderabad City,12/6/2021,1/5/2022,Departing Late By 30mins
+1132,Jaipur,Indore,10/27/2021,7/30/2021,On Time
+2155,Guwahati,Bangalore,7/6/2021,11/27/2021,Departing Early By 30mins
+1527,Indore,Naqpur,7/9/2021,3/7/2021,Departing Late By 30mins
+2898,Jammu,Amritsar,7/26/2021,6/18/2021,Departed
+3305,Vasco da Gama,Pune,9/23/2021,3/14/2021,Departed
+4461,Naqpur,Lucknow,4/23/2021,12/18/2021,On Time
+1968,Mumbai,Siliguri,2/20/2022,8/24/2021,Departing Early By 30mins
+4516,Siliguri,Pune,4/20/2021,1/16/2022,Departing Late By 30mins
+2144,Tiruchirappally,Coimbatore,5/4/2021,10/22/2021,Arriving Late By 30mins
+4872,Tiruchirappally,Lucknow,9/26/2021,9/29/2021,On Time
+4327,Guwahati,Bangalore,3/24/2021,5/20/2021,Departing Early By 30mins
+1375,Ahmedabad,Kolkata,1/12/2022,9/13/2021,Arriving Late By 30mins
+4270,Lucknow,Kolkata,12/28/2021,11/9/2021,Arriving Early By 30mins
+4477,Kochi,Chandigarh,6/10/2021,6/5/2021,Departing Early By 30mins
+4540,Kolkata,Kochi,7/27/2021,8/15/2021,Departing Late By 30mins
+1012,Siliguri,Chennai,11/5/2021,9/24/2021,Arriving Late By 30mins
+1173,Tiruchirappally,Mangalore,7/10/2021,9/3/2021,Departing Early By 30mins
+4580,Madurai,Thiruvananthapuram,2/28/2021,11/26/2021,Arriving Early By 30mins
+1076,Coimbatore,Port Blair,4/12/2021,1/25/2022,Departed
+3934,Vasco da Gama,Amritsar,3/18/2021,11/10/2021,Departing Late By 30mins
+2066,Naqpur,Chandigarh,9/11/2021,3/22/2021,Departing Early By 30mins
+2291,Pune,New Delhi,4/12/2021,7/28/2021,Arriving Early By 30mins
+2472,Mangalore,Coimbatore,3/21/2021,7/12/2021,Arriving Early By 30mins
+4934,Srinagar,Jaipur,8/20/2021,8/16/2021,Departing Late By 30mins
+1961,Jaipur,Agartala,3/7/2021,8/15/2021,Departed
+2888,New Delhi,Tiruchirappally,3/11/2021,3/7/2021,Departing Late By 30mins
+4812,Ahmedabad,Mangalore,10/29/2021,11/10/2021,Departing Early By 30mins
+2997,Madurai,Thiruvananthapuram,9/18/2021,7/23/2021,On Time
+2286,Pune,Chennai,7/16/2021,8/2/2021,Departing Late By 30mins
+2331,Patna,Guwahati,2/6/2022,7/17/2021,Arriving Late By 30mins
+3199,Hyderabad City,Pune,4/6/2021,5/1/2021,Departed
+3669,Bangalore,Chennai,7/10/2021,2/22/2021,Departing Early By 30mins
+3896,Jaipur,Jammu,3/16/2021,4/7/2021,Arriving Early By 30mins
+1073,Hyderabad City,Calicut,8/23/2021,7/1/2021,Departing Late By 30mins
+4093,Chennai,Jammu,8/28/2021,7/2/2021,On Time
+1530,Lucknow,Chandigarh,2/20/2022,11/3/2021,On Time
+1205,Pune,Coimbatore,9/20/2021,6/24/2021,Arriving Late By 30mins
+2348,Siliguri,Jaipur,3/9/2021,4/14/2021,Departed
+2639,Mumbai,Guwahati,8/24/2021,4/4/2021,On Time
+1304,Madurai,Indore,5/17/2021,7/12/2021,Departing Early By 30mins
+4253,Lucknow,Agartala,3/19/2021,5/10/2021,Arriving Late By 30mins
+2153,Lucknow,Patna,11/14/2021,3/20/2021,Arriving Early By 30mins
+4740,Ahmedabad,Jammu,1/21/2022,8/4/2021,Arriving Late By 30mins
+1356,Calicut,Naqpur,8/30/2021,8/2/2021,Departing Late By 30mins
+2197,Madurai,Jammu,7/22/2021,11/28/2021,Departing Late By 30mins
+3994,Indore,Lucknow,10/5/2021,12/20/2021,On Time
+3988,Bangalore,Calicut,4/21/2021,3/9/2021,Departed
+4569,Ahmedabad,Port Blair,4/17/2021,7/4/2021,Arriving Early By 30mins
+3479,Srinagar,Port Blair,5/12/2021,4/17/2021,Departing Late By 30mins
+4833,Hyderabad City,Siliguri,7/6/2021,1/15/2022,Arriving Late By 30mins
+3265,Mangalore,Thiruvananthapuram,6/6/2021,1/13/2022,Departed
+1458,Guwahati,Mumbai,10/13/2021,9/18/2021,Arriving Late By 30mins
+2718,Thiruvananthapuram,Indore,12/14/2021,6/26/2021,On Time
+2502,Bangalore,Coimbatore,10/16/2021,2/19/2022,Arriving Early By 30mins
+3942,Naqpur,Mumbai,4/7/2021,9/14/2021,Arriving Early By 30mins
+1183,Amritsar,Mumbai,6/23/2021,10/5/2021,On Time
+1111,Thiruvananthapuram,Siliguri,7/16/2021,7/8/2021,Arriving Late By 30mins
+1793,Calicut,Guwahati,11/28/2021,11/30/2021,Arriving Early By 30mins
+1765,Pune,Ahmedabad,1/11/2022,9/28/2021,Departing Late By 30mins
+2850,Visakhapatnam,Naqpur,8/15/2021,3/28/2021,On Time
+3484,Calicut,Patna,2/28/2021,7/17/2021,Arriving Early By 30mins
+2433,Tiruchirappally,Vasco da Gama,8/24/2021,3/29/2021,Departing Early By 30mins
+4406,Bangalore,New Delhi,9/25/2021,10/22/2021,Arriving Late By 30mins
+1596,Visakhapatnam,Kochi,3/21/2021,11/13/2021,Departing Early By 30mins
+4540,Thiruvananthapuram,Vasco da Gama,5/28/2021,4/30/2021,Departing Late By 30mins
+4528,Tiruchirappally,Jammu,3/19/2021,11/26/2021,Arriving Late By 30mins
+3787,Mumbai,Tiruchirappally,1/4/2022,11/10/2021,Arriving Late By 30mins
+4261,Kochi,Jaipur,6/27/2021,9/23/2021,On Time
+3711,Tiruchirappally,Tiruchirappally,11/22/2021,3/31/2021,Departing Early By 30mins
+3973,Chennai,Jaipur,3/4/2021,9/8/2021,Departed
+4061,Chandigarh,Kochi,11/16/2021,1/14/2022,Arriving Early By 30mins
+2472,Visakhapatnam,Naqpur,5/24/2021,8/2/2021,Departing Late By 30mins
+1154,Srinagar,Kolkata,2/10/2022,11/17/2021,Arriving Early By 30mins
+2976,Port Blair,Pune,6/18/2021,12/16/2021,Departing Early By 30mins
+2270,Siliguri,Calicut,5/11/2021,4/18/2021,Departing Late By 30mins
+1617,Port Blair,Jaipur,7/11/2021,9/26/2021,On Time
+4862,Ahmedabad,Ahmedabad,8/13/2021,10/11/2021,On Time
+4844,Chandigarh,Kochi,8/3/2021,3/27/2021,Departing Early By 30mins
+1920,Agartala,Calicut,2/13/2022,2/3/2022,Arriving Early By 30mins
+4169,Visakhapatnam,Mumbai,3/20/2021,4/26/2021,On Time
+3609,Srinagar,Hyderabad City,4/14/2021,11/13/2021,Departing Early By 30mins
+1944,Lucknow,Visakhapatnam,5/12/2021,11/22/2021,Arriving Late By 30mins
+4930,Lucknow,Amritsar,8/3/2021,9/11/2021,Departed
+1868,Visakhapatnam,Jaipur,4/11/2021,4/29/2021,Departing Late By 30mins
+3348,Siliguri,Bangalore,11/5/2021,1/23/2022,Departing Late By 30mins
+4140,Patna,Tiruchirappally,1/26/2022,6/6/2021,Departing Early By 30mins
+2517,Srinagar,Naqpur,7/7/2021,9/30/2021,Arriving Late By 30mins
+3101,Madurai,Pune,5/1/2021,10/16/2021,Departing Late By 30mins
+4869,Ahmedabad,Tiruchirappally,7/27/2021,3/13/2021,Arriving Early By 30mins
+2692,Guwahati,Chennai,3/29/2021,7/15/2021,Departed
+4196,Chennai,Kochi,3/22/2021,5/26/2021,Arriving Late By 30mins
+3406,Srinagar,Vasco da Gama,12/1/2021,2/10/2022,Departing Late By 30mins
+3141,Madurai,Kochi,6/5/2021,1/31/2022,Departing Late By 30mins
+4042,Indore,Ahmedabad,12/7/2021,4/23/2021,Departed
+1917,Chennai,Lucknow,8/26/2021,5/23/2021,Arriving Early By 30mins
+1405,Agartala,Ahmedabad,11/16/2021,10/13/2021,Departing Early By 30mins
+4300,Madurai,Patna,6/28/2021,9/9/2021,On Time
+3150,Mumbai,Bangalore,3/9/2021,9/29/2021,Arriving Early By 30mins
+3046,Mangalore,Kochi,9/21/2021,7/22/2021,Departed
+3552,Madurai,Mangalore,11/20/2021,5/5/2021,Departing Late By 30mins
+3966,Vasco da Gama,Pune,12/27/2021,6/22/2021,Departing Early By 30mins
+4600,Hyderabad City,Indore,8/2/2021,10/27/2021,Arriving Early By 30mins
+4286,Amritsar,Patna,10/19/2021,1/7/2022,Arriving Early By 30mins
+1810,Siliguri,Guwahati,6/17/2021,12/23/2021,Arriving Late By 30mins
+2580,Kolkata,Kochi,4/21/2021,1/2/2022,Arriving Late By 30mins
+4286,Guwahati,Visakhapatnam,4/17/2021,10/14/2021,Departing Late By 30mins
+4227,Chandigarh,Tiruchirappally,3/25/2021,6/15/2021,Arriving Late By 30mins
+1833,Patna,Kochi,9/23/2021,11/14/2021,Departing Late By 30mins
+3313,Guwahati,Patna,12/9/2021,2/1/2022,Departing Late By 30mins
+4252,Chandigarh,Thiruvananthapuram,12/14/2021,7/6/2021,Departed
+1780,Kochi,Jaipur,7/6/2021,10/23/2021,Arriving Late By 30mins
+1687,Siliguri,Bangalore,1/18/2022,6/28/2021,Arriving Early By 30mins
+3322,Thiruvananthapuram,Naqpur,10/14/2021,12/27/2021,Departing Late By 30mins
+3624,Amritsar,Indore,7/3/2021,12/26/2021,Departed
+3846,Madurai,Chennai,1/1/2022,10/11/2021,Departing Early By 30mins
+2199,Coimbatore,Guwahati,9/24/2021,12/21/2021,Departing Late By 30mins
+3350,Jammu,Chennai,4/25/2021,6/12/2021,Arriving Late By 30mins
+4707,Ahmedabad,Pune,3/6/2021,11/16/2021,Arriving Early By 30mins
+2298,Chennai,Coimbatore,9/12/2021,8/12/2021,Departed
+4697,Mangalore,Lucknow,12/14/2021,3/13/2021,Arriving Late By 30mins
+4290,Chennai,Kolkata,1/8/2022,1/26/2022,Departing Early By 30mins
+4583,Ahmedabad,Indore,4/14/2021,2/2/2022,Departing Early By 30mins
+1335,Hyderabad City,Madurai,10/24/2021,9/27/2021,Departing Early By 30mins
+4171,Jammu,Mangalore,5/4/2021,12/20/2021,On Time
+3379,Guwahati,Srinagar,10/26/2021,6/18/2021,Arriving Late By 30mins
+4885,Coimbatore,Lucknow,4/22/2021,5/24/2021,Arriving Late By 30mins
+2566,Amritsar,Guwahati,1/27/2022,11/16/2021,Departing Early By 30mins
+3475,Amritsar,Jammu,2/12/2022,10/2/2021,Departed
+3508,Thiruvananthapuram,Kolkata,9/21/2021,4/18/2021,Departing Late By 30mins
+2512,Vasco da Gama,Agartala,12/10/2021,2/18/2022,Departed
+3433,Bangalore,Amritsar,1/6/2022,9/12/2021,Departing Late By 30mins
+4088,Kochi,Indore,10/17/2021,1/1/2022,Arriving Early By 30mins
+3771,Indore,Pune,8/15/2021,2/7/2022,Departing Early By 30mins
+4846,Hyderabad City,Agartala,1/18/2022,11/13/2021,Departed
+1894,New Delhi,Patna,11/10/2021,2/22/2022,Departing Early By 30mins
+3359,Tiruchirappally,Chandigarh,7/30/2021,8/25/2021,Arriving Late By 30mins
+3259,Visakhapatnam,Coimbatore,9/20/2021,2/28/2021,On Time
+3714,Tiruchirappally,Chennai,12/3/2021,1/31/2022,Arriving Late By 30mins
+4168,Calicut,Vasco da Gama,3/10/2021,7/11/2021,Departing Early By 30mins
+1670,Indore,Coimbatore,5/12/2021,5/29/2021,Arriving Late By 30mins
+4001,Coimbatore,Madurai,6/26/2021,11/17/2021,Departed
+1322,Calicut,Coimbatore,12/21/2021,5/30/2021,Departing Early By 30mins
+2449,Coimbatore,Kolkata,10/15/2021,6/13/2021,On Time
+4561,Patna,Ahmedabad,10/25/2021,7/2/2021,Arriving Early By 30mins
+1606,Tiruchirappally,Jammu,4/13/2021,7/28/2021,Departed
+3250,Port Blair,Indore,8/28/2021,4/29/2021,Arriving Late By 30mins
+4053,Madurai,Patna,4/5/2021,2/14/2022,Arriving Early By 30mins
+1275,Coimbatore,New Delhi,1/26/2022,2/14/2022,On Time
+3717,Indore,Thiruvananthapuram,4/20/2021,10/13/2021,Arriving Late By 30mins
+1772,Lucknow,Thiruvananthapuram,10/13/2021,10/8/2021,Departing Early By 30mins
+3207,Naqpur,Mumbai,1/25/2022,4/19/2021,Arriving Early By 30mins
+1435,Amritsar,Jaipur,12/5/2021,9/27/2021,Departed
+2465,Pune,Patna,12/29/2021,1/25/2022,Departed
+4537,Visakhapatnam,Port Blair,2/21/2022,11/26/2021,On Time
+1890,Madurai,Coimbatore,1/22/2022,5/17/2021,On Time
+1367,Chennai,New Delhi,1/10/2022,12/5/2021,Arriving Early By 30mins
+3539,Lucknow,Chennai,8/7/2021,11/23/2021,Departed
+3640,Kolkata,Visakhapatnam,7/22/2021,4/15/2021,On Time
+3090,Visakhapatnam,Indore,7/5/2021,6/11/2021,Departing Early By 30mins
+1758,Patna,Calicut,7/26/2021,7/12/2021,Arriving Late By 30mins
+4536,Coimbatore,Hyderabad City,12/14/2021,7/15/2021,Departing Early By 30mins
+4353,Pune,Indore,1/15/2022,4/15/2021,Departing Late By 30mins
+4340,Visakhapatnam,Chandigarh,3/9/2021,4/28/2021,Arriving Late By 30mins
+3851,Kolkata,Chandigarh,2/27/2021,6/7/2021,Departed
+1439,Visakhapatnam,Jammu,9/11/2021,5/5/2021,Departing Early By 30mins
+1795,Coimbatore,Port Blair,11/13/2021,11/13/2021,Departing Late By 30mins
+2135,Indore,Visakhapatnam,2/2/2022,1/14/2022,Departing Late By 30mins
+2722,Chandigarh,Kolkata,4/22/2021,8/27/2021,Departed
+3139,Hyderabad City,Vasco da Gama,8/31/2021,8/28/2021,On Time
+2025,Siliguri,Bangalore,11/13/2021,2/21/2022,Arriving Early By 30mins
+4507,Pune,Vasco da Gama,1/24/2022,12/11/2021,Departed
+2675,Calicut,Naqpur,11/13/2021,9/15/2021,Departed
+2703,Coimbatore,Visakhapatnam,4/18/2021,12/18/2021,Arriving Early By 30mins
+4606,Tiruchirappally,Siliguri,12/5/2021,6/12/2021,Departing Late By 30mins
+2074,Vasco da Gama,Bangalore,4/30/2021,8/17/2021,Departing Early By 30mins
+2998,Madurai,Mumbai,1/21/2022,5/22/2021,Arriving Early By 30mins
+2087,Pune,Patna,4/15/2021,3/4/2021,Arriving Early By 30mins
+3874,Chennai,Indore,6/18/2021,6/29/2021,On Time
+2301,Jaipur,Indore,4/8/2021,7/30/2021,Arriving Early By 30mins
+3700,Patna,Vasco da Gama,12/27/2021,11/5/2021,Departing Early By 30mins
+1980,Port Blair,Hyderabad City,9/4/2021,7/13/2021,On Time
+1582,Pune,Bangalore,10/2/2021,3/27/2021,Departing Late By 30mins
+4446,Vasco da Gama,Ahmedabad,6/3/2021,1/15/2022,Departing Early By 30mins
+2225,Indore,Guwahati,9/8/2021,6/19/2021,Arriving Early By 30mins
+2928,Amritsar,Thiruvananthapuram,4/24/2021,10/6/2021,On Time
+4131,Patna,Chandigarh,10/29/2021,10/16/2021,On Time
+4042,Lucknow,Port Blair,9/27/2021,10/14/2021,Departed
+1413,Madurai,Mumbai,11/7/2021,11/23/2021,Departing Early By 30mins
+1842,Port Blair,Jaipur,4/21/2021,9/14/2021,On Time
+4214,Kolkata,Srinagar,7/5/2021,6/15/2021,Departing Early By 30mins
+1132,Lucknow,Port Blair,1/31/2022,6/20/2021,Departed
+4946,Coimbatore,Hyderabad City,2/8/2022,1/11/2022,Arriving Early By 30mins
+4445,Hyderabad City,Calicut,9/28/2021,2/20/2022,Departing Late By 30mins
+2777,Srinagar,Mangalore,7/24/2021,7/25/2021,On Time
+2502,Jammu,Vasco da Gama,6/14/2021,10/20/2021,Departed
+2918,Kochi,Kochi,9/16/2021,9/18/2021,On Time
+3638,Visakhapatnam,Agartala,1/28/2022,3/25/2021,On Time
+3803,Chandigarh,Siliguri,7/22/2021,12/8/2021,On Time
+4414,Jammu,New Delhi,7/20/2021,1/25/2022,Arriving Late By 30mins
+4437,Patna,Lucknow,8/24/2021,8/25/2021,Arriving Early By 30mins
+2931,Calicut,Hyderabad City,9/28/2021,7/7/2021,Arriving Late By 30mins
+4343,Indore,Ahmedabad,11/16/2021,6/19/2021,Arriving Late By 30mins
+2766,Chandigarh,Calicut,9/23/2021,3/7/2021,Departing Early By 30mins
+2138,Guwahati,Siliguri,11/23/2021,12/27/2021,Arriving Early By 30mins
+3026,Port Blair,Port Blair,6/21/2021,4/14/2021,Arriving Late By 30mins
+4738,Srinagar,Hyderabad City,1/21/2022,4/3/2021,Departing Late By 30mins
+4141,Chandigarh,Bangalore,2/2/2022,3/10/2021,Departing Late By 30mins
+1502,Jammu,Madurai,5/11/2021,11/26/2021,Departed
+4750,Patna,Thiruvananthapuram,2/27/2021,5/13/2021,Arriving Early By 30mins
+2557,Mangalore,Patna,8/25/2021,12/19/2021,Arriving Early By 30mins
+2219,Visakhapatnam,Vasco da Gama,6/6/2021,12/24/2021,Departed
+3919,Guwahati,Chandigarh,5/8/2021,4/25/2021,Departing Early By 30mins
+4653,Mangalore,New Delhi,7/13/2021,8/25/2021,On Time
+3223,Lucknow,Mangalore,2/17/2022,6/12/2021,On Time
+4451,Kochi,Port Blair,7/3/2021,1/26/2022,Arriving Early By 30mins
+2647,Indore,Vasco da Gama,1/4/2022,8/3/2021,Departing Late By 30mins
+3506,Srinagar,Chandigarh,10/12/2021,4/17/2021,Departing Late By 30mins
+3402,Chennai,Vasco da Gama,9/16/2021,6/13/2021,Departed
+4965,Kolkata,Chandigarh,7/12/2021,1/5/2022,Arriving Late By 30mins
+3959,Lucknow,Siliguri,7/14/2021,11/16/2021,Departed
+2713,Madurai,Hyderabad City,6/18/2021,2/4/2022,Departing Early By 30mins
+3628,Visakhapatnam,Port Blair,10/16/2021,10/8/2021,Departing Late By 30mins
+3551,Pune,Siliguri,5/26/2021,4/26/2021,Departed
+4365,Jaipur,Kochi,3/22/2021,3/13/2021,Arriving Early By 30mins
+3056,Lucknow,Hyderabad City,12/12/2021,9/17/2021,Arriving Early By 30mins
+3173,Srinagar,Kolkata,8/25/2021,12/11/2021,Arriving Late By 30mins
+1135,Ahmedabad,Pune,9/23/2021,6/5/2021,Arriving Early By 30mins
+2032,Madurai,Calicut,5/19/2021,6/20/2021,On Time
+2866,Hyderabad City,Jammu,8/31/2021,3/16/2021,Departing Early By 30mins
+2894,Kochi,Bangalore,4/8/2021,9/21/2021,Arriving Early By 30mins
+2114,Visakhapatnam,Indore,10/14/2021,2/15/2022,Arriving Late By 30mins
+3181,Siliguri,Visakhapatnam,6/14/2021,7/29/2021,Arriving Early By 30mins
+1094,Madurai,Ahmedabad,4/21/2021,1/14/2022,Arriving Late By 30mins
+4743,Chennai,Pune,10/14/2021,1/12/2022,On Time
+3850,Mangalore,Srinagar,4/14/2021,11/19/2021,Arriving Late By 30mins
+1314,Coimbatore,Mangalore,5/24/2021,5/26/2021,Departed
+2031,Agartala,Calicut,6/4/2021,1/31/2022,Departed
+1675,Amritsar,Port Blair,11/27/2021,6/10/2021,Departing Early By 30mins
+3938,Jammu,Chandigarh,8/26/2021,2/3/2022,Departing Early By 30mins
+3932,Jaipur,Patna,8/19/2021,1/15/2022,On Time
+1337,Calicut,Ahmedabad,7/26/2021,3/19/2021,Arriving Early By 30mins
+2651,Coimbatore,Madurai,7/21/2021,5/9/2021,Arriving Early By 30mins
+1048,Vasco da Gama,Lucknow,5/29/2021,11/17/2021,Arriving Early By 30mins
+3420,Coimbatore,Coimbatore,12/11/2021,7/15/2021,On Time
+3266,Hyderabad City,New Delhi,7/24/2021,8/4/2021,Departed
+1039,Vasco da Gama,Vasco da Gama,6/23/2021,10/5/2021,On Time
+3992,Kolkata,Mumbai,9/25/2021,10/10/2021,Arriving Late By 30mins
+2088,Siliguri,Vasco da Gama,9/1/2021,3/12/2021,Departing Early By 30mins
+3443,Mumbai,Bangalore,12/5/2021,8/26/2021,Departing Late By 30mins
+3030,Lucknow,Hyderabad City,3/12/2021,10/30/2021,On Time
+3241,Lucknow,Siliguri,4/18/2021,7/23/2021,Departing Early By 30mins
+1678,Lucknow,Mumbai,3/29/2021,10/13/2021,Arriving Early By 30mins
+4739,Jammu,Visakhapatnam,5/19/2021,10/10/2021,On Time
+1809,Ahmedabad,Patna,11/9/2021,9/16/2021,Arriving Early By 30mins
+3520,Port Blair,Srinagar,5/19/2021,12/30/2021,Departed
+3519,Hyderabad City,Siliguri,11/2/2021,9/26/2021,Departing Late By 30mins
+3418,Siliguri,Jammu,5/20/2021,9/8/2021,On Time
+3640,Coimbatore,Madurai,10/13/2021,6/12/2021,Departed
+2844,Vasco da Gama,Amritsar,11/20/2021,1/25/2022,Arriving Late By 30mins
+4614,Naqpur,Jaipur,6/14/2021,9/5/2021,On Time
+1030,Kochi,Chandigarh,1/28/2022,3/18/2021,Arriving Late By 30mins
+3733,Visakhapatnam,Hyderabad City,12/9/2021,9/23/2021,Arriving Early By 30mins
+2710,Ahmedabad,Jaipur,8/8/2021,10/31/2021,Arriving Late By 30mins
+4378,Naqpur,Port Blair,9/20/2021,5/24/2021,Departed
+2344,Bangalore,Ahmedabad,7/16/2021,9/27/2021,On Time
+1408,Ahmedabad,New Delhi,8/29/2021,1/23/2022,Departing Early By 30mins
+3707,Chennai,Lucknow,12/31/2021,8/13/2021,Arriving Late By 30mins
+1185,Jaipur,Mumbai,1/21/2022,10/21/2021,Departing Early By 30mins
+3989,Tiruchirappally,Lucknow,3/21/2021,10/3/2021,Departing Early By 30mins
+4155,Coimbatore,Guwahati,11/4/2021,10/15/2021,Arriving Early By 30mins
+4559,Patna,Mumbai,12/28/2021,6/12/2021,Departed
+4159,Kolkata,Naqpur,11/9/2021,7/19/2021,Arriving Early By 30mins
+4560,Port Blair,Lucknow,12/20/2021,1/7/2022,Arriving Early By 30mins
+4739,Naqpur,Jaipur,1/27/2022,5/28/2021,Departing Early By 30mins
+2873,Lucknow,Hyderabad City,1/18/2022,5/15/2021,Arriving Early By 30mins
+2947,Vasco da Gama,Vasco da Gama,5/28/2021,11/13/2021,Arriving Late By 30mins
+4375,Calicut,Vasco da Gama,6/27/2021,4/26/2021,Departing Late By 30mins
+4455,Guwahati,Bangalore,1/18/2022,8/21/2021,Departing Early By 30mins
+2769,Indore,Vasco da Gama,8/28/2021,11/20/2021,Departed
+3432,Patna,Agartala,6/10/2021,8/25/2021,Arriving Early By 30mins
+1594,Patna,Madurai,1/13/2022,12/5/2021,Arriving Early By 30mins
+3686,Jaipur,Jammu,2/7/2022,8/1/2021,On Time
+1946,Bangalore,Kochi,10/31/2021,12/15/2021,On Time
+2324,Port Blair,Vasco da Gama,6/4/2021,9/12/2021,Departing Late By 30mins
+2592,Kochi,Thiruvananthapuram,7/18/2021,7/11/2021,Departed
+3495,New Delhi,Lucknow,8/11/2021,2/12/2022,Arriving Early By 30mins
+1395,Mangalore,Amritsar,4/6/2021,5/3/2021,Arriving Late By 30mins
+3832,Pune,Ahmedabad,12/30/2021,6/4/2021,Arriving Early By 30mins
+4674,Hyderabad City,Naqpur,6/16/2021,4/6/2021,Departing Late By 30mins
+3276,New Delhi,Tiruchirappally,9/21/2021,3/29/2021,Arriving Early By 30mins
+3576,Pune,Pune,11/16/2021,8/17/2021,Departing Early By 30mins
+4434,Mumbai,Tiruchirappally,9/7/2021,7/6/2021,Departed
+4984,Mumbai,Jaipur,2/26/2021,3/16/2021,Arriving Early By 30mins
+2943,Guwahati,Patna,6/28/2021,7/28/2021,Arriving Early By 30mins
+3393,Thiruvananthapuram,Jammu,11/8/2021,3/21/2021,Departed
+4442,Jaipur,Kochi,4/8/2021,9/14/2021,Departed
+3672,Port Blair,Port Blair,7/5/2021,3/4/2021,Arriving Early By 30mins
+2324,Pune,Lucknow,2/2/2022,11/8/2021,On Time
+2846,Ahmedabad,Srinagar,1/30/2022,8/19/2021,On Time
+3157,Calicut,Port Blair,8/19/2021,2/14/2022,Departed
+4929,Mangalore,Bangalore,3/14/2021,5/23/2021,Departing Early By 30mins
+1977,Indore,Mangalore,3/16/2021,9/11/2021,Departed
+1315,Kochi,Lucknow,4/20/2021,11/1/2021,Departing Late By 30mins
+4337,Coimbatore,Calicut,9/7/2021,2/5/2022,Departing Late By 30mins
+3460,Chandigarh,Visakhapatnam,11/9/2021,9/18/2021,Departing Early By 30mins
+1311,New Delhi,Chandigarh,9/17/2021,11/12/2021,Arriving Early By 30mins
+4139,Amritsar,Thiruvananthapuram,1/13/2022,8/27/2021,Departing Early By 30mins
+2163,Srinagar,Ahmedabad,6/7/2021,12/4/2021,On Time
+4451,Lucknow,Agartala,1/13/2022,8/8/2021,Departing Early By 30mins
+1963,Chandigarh,Lucknow,1/30/2022,11/28/2021,Departing Early By 30mins
+2177,Ahmedabad,Mumbai,2/22/2022,9/20/2021,Arriving Late By 30mins
+1296,Coimbatore,Kochi,11/19/2021,8/13/2021,Departed
+2934,Pune,Madurai,11/21/2021,8/10/2021,Departing Early By 30mins
+2044,Calicut,Kochi,9/3/2021,8/22/2021,Departing Late By 30mins
+4615,Siliguri,Guwahati,8/9/2021,5/30/2021,Arriving Late By 30mins
+2642,Bangalore,Tiruchirappally,10/30/2021,6/30/2021,Arriving Early By 30mins
+2030,Guwahati,Indore,4/7/2021,6/10/2021,Departed
+3868,Agartala,Patna,3/2/2021,9/15/2021,On Time
+2900,Hyderabad City,Mangalore,5/16/2021,1/5/2022,On Time
+3330,Agartala,Kochi,2/13/2022,2/3/2022,Departing Late By 30mins
+1036,Jammu,Srinagar,1/31/2022,2/15/2022,Arriving Early By 30mins
+3160,New Delhi,Visakhapatnam,6/4/2021,6/23/2021,Arriving Early By 30mins
+3994,Vasco da Gama,Agartala,4/18/2021,8/7/2021,Departing Late By 30mins
+4110,Chennai,Lucknow,12/23/2021,3/4/2021,Arriving Late By 30mins
+3415,Naqpur,Chandigarh,1/22/2022,8/19/2021,Arriving Late By 30mins
+4245,New Delhi,Jammu,9/26/2021,9/5/2021,Arriving Early By 30mins
+1232,Hyderabad City,Tiruchirappally,11/6/2021,6/20/2021,Arriving Early By 30mins
+3225,Kolkata,Mumbai,8/18/2021,12/28/2021,Departing Late By 30mins
+3818,Siliguri,Visakhapatnam,10/11/2021,5/10/2021,Arriving Early By 30mins
+3976,Indore,Coimbatore,3/21/2021,11/28/2021,Arriving Late By 30mins
+1611,Agartala,Calicut,10/16/2021,12/8/2021,Departing Early By 30mins
+4767,Calicut,Kolkata,5/23/2021,2/25/2021,Arriving Late By 30mins
+2032,Hyderabad City,Pune,5/8/2021,10/8/2021,Departing Late By 30mins
+1609,Visakhapatnam,Lucknow,3/25/2021,10/30/2021,Arriving Late By 30mins
+2708,Vasco da Gama,Siliguri,7/11/2021,9/21/2021,Arriving Late By 30mins
+1876,Jaipur,Srinagar,7/5/2021,3/21/2021,Departed
+3859,Siliguri,Agartala,8/20/2021,9/9/2021,Arriving Late By 30mins
+1930,New Delhi,Calicut,12/1/2021,8/19/2021,Departing Late By 30mins
+4681,Chennai,Visakhapatnam,1/8/2022,6/28/2021,Departed
+1340,Bangalore,Lucknow,9/11/2021,5/12/2021,Departed
+4115,Coimbatore,Chandigarh,5/22/2021,6/7/2021,Departing Late By 30mins
+4671,Pune,New Delhi,3/7/2021,3/19/2021,Departed
+1731,Guwahati,Jammu,10/11/2021,4/6/2021,Departed
+2676,Siliguri,Lucknow,3/23/2021,2/11/2022,Departed
+2414,Ahmedabad,Mangalore,9/6/2021,11/8/2021,Arriving Late By 30mins
+3167,Jammu,Hyderabad City,1/1/2022,10/17/2021,Departed
+3691,Port Blair,Agartala,4/20/2021,1/1/2022,On Time
+4707,Siliguri,Madurai,2/20/2022,9/23/2021,Departing Early By 30mins
+3761,Port Blair,Chandigarh,1/5/2022,11/26/2021,Departing Late By 30mins
+2541,Madurai,Mumbai,11/20/2021,3/3/2021,Departed
+3259,Siliguri,Guwahati,7/28/2021,12/9/2021,Departing Early By 30mins
+2731,Bangalore,Chennai,2/17/2022,12/4/2021,Departed
+4454,Thiruvananthapuram,Siliguri,9/17/2021,12/5/2021,Departing Late By 30mins
+4525,Madurai,Bangalore,11/3/2021,6/2/2021,Arriving Early By 30mins
+3414,Tiruchirappally,Chandigarh,8/2/2021,6/22/2021,On Time
+1967,Ahmedabad,Naqpur,6/13/2021,8/21/2021,Departing Late By 30mins
+2392,Naqpur,Calicut,4/24/2021,2/9/2022,Departing Early By 30mins
+4446,Mangalore,Port Blair,10/10/2021,4/20/2021,Departing Late By 30mins
+2566,Vasco da Gama,Naqpur,7/18/2021,7/29/2021,Departing Early By 30mins
+4256,Patna,Kolkata,4/6/2021,2/22/2021,Arriving Early By 30mins
+4927,Chennai,Amritsar,9/5/2021,3/10/2021,Arriving Late By 30mins
+4056,Kolkata,Siliguri,1/8/2022,11/20/2021,Arriving Late By 30mins
+2961,Srinagar,Siliguri,1/3/2022,10/23/2021,Departing Late By 30mins
+3560,Ahmedabad,Naqpur,11/28/2021,12/14/2021,Arriving Late By 30mins
+3216,Hyderabad City,Patna,5/20/2021,1/3/2022,Arriving Early By 30mins
+4746,Calicut,Bangalore,6/6/2021,12/6/2021,Departed
+1445,Port Blair,Jammu,5/30/2021,10/11/2021,Departed
+2087,Amritsar,Bangalore,2/22/2022,2/18/2022,Departing Early By 30mins
+4208,Srinagar,Thiruvananthapuram,9/20/2021,12/2/2021,Arriving Late By 30mins
+2252,Kochi,Kolkata,6/24/2021,9/8/2021,On Time
+4324,Jaipur,Mumbai,10/5/2021,7/15/2021,Arriving Early By 30mins
+2981,Srinagar,Ahmedabad,5/2/2021,11/6/2021,Departing Late By 30mins
+1376,Vasco da Gama,Chandigarh,3/18/2021,5/23/2021,Departing Early By 30mins
+1708,Amritsar,Kochi,5/23/2021,5/28/2021,On Time
+1122,Madurai,Amritsar,4/24/2021,8/17/2021,Arriving Late By 30mins
+1021,Tiruchirappally,Chennai,7/3/2021,12/4/2021,Departing Late By 30mins
+4410,Jammu,New Delhi,9/29/2021,9/6/2021,Arriving Early By 30mins
+1058,Vasco da Gama,Jammu,8/7/2021,1/27/2022,Departed
+3231,Srinagar,Chandigarh,9/1/2021,4/10/2021,On Time
+3443,Kolkata,Chennai,4/4/2021,3/29/2021,Departing Early By 30mins
+4291,Tiruchirappally,Bangalore,1/18/2022,1/8/2022,Departed
+1145,Coimbatore,Lucknow,11/6/2021,4/24/2021,Departing Late By 30mins
+4410,Agartala,Coimbatore,5/26/2021,10/14/2021,On Time
+4110,Agartala,Srinagar,3/28/2021,2/16/2022,Departing Late By 30mins
+1445,Amritsar,Mangalore,6/18/2021,12/9/2021,Departing Late By 30mins
+3425,Coimbatore,Lucknow,1/17/2022,12/1/2021,Arriving Early By 30mins
+3673,Vasco da Gama,Mangalore,10/27/2021,10/10/2021,Arriving Early By 30mins
+3274,Jammu,Thiruvananthapuram,1/27/2022,2/8/2022,Departing Early By 30mins
+2699,Mumbai,Patna,3/22/2021,5/9/2021,Departed
+3898,Amritsar,Pune,1/29/2022,3/13/2021,Departing Early By 30mins
+1858,Mumbai,Thiruvananthapuram,1/18/2022,12/5/2021,Arriving Early By 30mins
+1367,Mangalore,Lucknow,1/30/2022,1/14/2022,Departing Late By 30mins
+1182,Indore,Bangalore,5/31/2021,8/14/2021,Arriving Early By 30mins
+3719,Port Blair,Hyderabad City,9/5/2021,4/14/2021,Arriving Late By 30mins
+1546,Pune,Thiruvananthapuram,8/11/2021,1/19/2022,Departing Early By 30mins
+2305,Chandigarh,Mangalore,6/21/2021,7/3/2021,Departing Late By 30mins
+4910,Visakhapatnam,Indore,11/13/2021,7/18/2021,Arriving Early By 30mins
+3337,Jaipur,Pune,8/15/2021,7/3/2021,Arriving Early By 30mins
+4035,Calicut,Kolkata,4/8/2021,2/2/2022,Departing Early By 30mins
+2880,Kochi,Guwahati,5/13/2021,3/28/2021,On Time
+2116,Patna,Vasco da Gama,5/1/2021,11/3/2021,Departed
+3645,Mangalore,Agartala,12/12/2021,5/1/2021,Arriving Late By 30mins
+3985,Madurai,Jammu,10/12/2021,11/30/2021,Departed
+1901,Mangalore,Guwahati,4/26/2021,4/20/2021,Departing Early By 30mins
+4730,Guwahati,Port Blair,3/26/2021,10/14/2021,Arriving Late By 30mins
+3287,Vasco da Gama,Thiruvananthapuram,4/3/2021,5/7/2021,Departing Late By 30mins
+4148,Port Blair,Kolkata,7/18/2021,4/9/2021,Departed
+4272,Pune,Naqpur,3/9/2021,8/3/2021,Departed
+4785,Mumbai,Visakhapatnam,10/18/2021,6/17/2021,Departing Late By 30mins
+1070,Tiruchirappally,Patna,8/20/2021,12/19/2021,On Time
+3693,New Delhi,New Delhi,11/14/2021,4/1/2021,Departing Late By 30mins
+3904,Chandigarh,Visakhapatnam,3/17/2021,3/11/2021,On Time
+3278,Thiruvananthapuram,Madurai,10/12/2021,6/21/2021,On Time
+3227,New Delhi,Calicut,9/17/2021,9/16/2021,Arriving Early By 30mins
+1033,Calicut,Bangalore,5/25/2021,3/20/2021,Arriving Late By 30mins
+2937,Lucknow,Agartala,10/1/2021,6/16/2021,Departing Late By 30mins
+4704,Hyderabad City,Bangalore,3/6/2021,2/22/2022,Departing Early By 30mins
+2603,Bangalore,Mumbai,4/1/2021,12/9/2021,Departing Late By 30mins
+2249,Jammu,Naqpur,3/7/2021,3/6/2021,On Time
+1720,Madurai,Mumbai,12/25/2021,8/11/2021,Departed
+2791,Indore,Kochi,1/11/2022,3/9/2021,On Time
+2895,Pune,Pune,10/20/2021,7/21/2021,Arriving Late By 30mins
+2449,Naqpur,Mangalore,2/20/2022,4/1/2021,Arriving Early By 30mins
+1079,Jaipur,Tiruchirappally,12/7/2021,7/10/2021,Arriving Late By 30mins
+3365,Kochi,Thiruvananthapuram,11/9/2021,7/2/2021,Arriving Early By 30mins
+4240,Ahmedabad,Srinagar,5/23/2021,3/13/2021,Departing Late By 30mins
+4486,Hyderabad City,Mumbai,12/2/2021,3/19/2021,On Time
+4960,Kochi,Chennai,7/29/2021,12/11/2021,On Time
+4333,Vasco da Gama,Port Blair,1/21/2022,1/15/2022,Departing Early By 30mins
+1207,Mumbai,Siliguri,7/25/2021,2/17/2022,Arriving Late By 30mins
+4829,Jaipur,Ahmedabad,7/26/2021,12/28/2021,Departed
+2677,Patna,Coimbatore,11/6/2021,11/16/2021,Departing Late By 30mins
+1770,Chandigarh,Kolkata,12/24/2021,7/29/2021,Arriving Late By 30mins
+2487,Kolkata,Bangalore,7/20/2021,8/23/2021,Departing Late By 30mins
+2038,Mangalore,Patna,12/26/2021,10/3/2021,Departed
+3291,Indore,Pune,1/5/2022,2/19/2022,Departed
+1210,Tiruchirappally,Indore,1/6/2022,12/28/2021,Arriving Early By 30mins
+2531,Guwahati,Vasco da Gama,4/20/2021,2/8/2022,Arriving Early By 30mins
+2495,Vasco da Gama,Kolkata,4/17/2021,1/9/2022,Arriving Early By 30mins
+4704,Agartala,Tiruchirappally,11/15/2021,11/16/2021,Departing Early By 30mins
+3994,Madurai,Jammu,11/20/2021,3/30/2021,Departed
+2258,Kolkata,Naqpur,11/5/2021,2/2/2022,Departing Early By 30mins
+3072,Kochi,Lucknow,3/25/2021,9/8/2021,Arriving Early By 30mins
+3157,Indore,Bangalore,1/13/2022,2/25/2021,On Time
+3138,Kolkata,Port Blair,6/1/2021,2/2/2022,Departing Late By 30mins
+2667,Chandigarh,Jaipur,12/27/2021,3/19/2021,Arriving Early By 30mins
+4370,Tiruchirappally,Jammu,12/19/2021,4/9/2021,Arriving Early By 30mins
+4691,Jammu,New Delhi,4/26/2021,2/17/2022,On Time
+1789,Pune,Thiruvananthapuram,3/13/2021,12/23/2021,Departing Early By 30mins
+3547,Patna,Mangalore,3/19/2021,4/12/2021,Departing Early By 30mins
+1077,Madurai,Ahmedabad,11/1/2021,7/9/2021,Arriving Early By 30mins
+3945,Lucknow,Guwahati,6/20/2021,10/6/2021,On Time
+2873,Thiruvananthapuram,Agartala,2/7/2022,12/29/2021,Departing Early By 30mins
+3236,Lucknow,Mangalore,3/16/2021,6/20/2021,Arriving Late By 30mins
+3215,Mumbai,Port Blair,12/4/2021,9/30/2021,Arriving Late By 30mins
+3350,Port Blair,Naqpur,11/2/2021,2/24/2021,Departing Early By 30mins
+3681,Coimbatore,Lucknow,2/18/2022,6/18/2021,Arriving Early By 30mins
+4384,Srinagar,Calicut,2/22/2021,4/30/2021,Arriving Late By 30mins
+3169,Agartala,Coimbatore,5/6/2021,10/23/2021,Departing Late By 30mins
+3717,Indore,Guwahati,3/15/2021,12/28/2021,On Time
+3029,Srinagar,Ahmedabad,8/15/2021,2/22/2022,Departing Early By 30mins
+2249,Bangalore,Srinagar,8/8/2021,7/4/2021,Departing Late By 30mins
+2051,Indore,Vasco da Gama,8/7/2021,1/7/2022,Departing Late By 30mins
+1224,Kolkata,New Delhi,10/24/2021,11/14/2021,Arriving Late By 30mins
+4049,Chandigarh,Pune,7/1/2021,6/26/2021,Arriving Late By 30mins
+4917,Mangalore,Chennai,1/13/2022,7/19/2021,On Time
+2364,Chennai,Lucknow,2/6/2022,9/4/2021,On Time
+3758,Tiruchirappally,Kolkata,12/26/2021,6/11/2021,Departing Late By 30mins
+3373,Lucknow,Patna,10/14/2021,7/19/2021,Arriving Early By 30mins
+3655,Naqpur,Naqpur,2/6/2022,6/21/2021,On Time
+3951,Calicut,Srinagar,11/10/2021,11/2/2021,Arriving Early By 30mins
+3513,Guwahati,Ahmedabad,5/3/2021,12/27/2021,Arriving Early By 30mins
+2064,Jammu,Coimbatore,12/14/2021,4/23/2021,Arriving Early By 30mins
+3681,Bangalore,Agartala,12/14/2021,4/4/2021,On Time
+1994,Siliguri,Amritsar,3/8/2021,9/27/2021,Arriving Late By 30mins
+4997,Jammu,Jaipur,10/15/2021,9/9/2021,On Time
+2190,Siliguri,Naqpur,11/26/2021,7/9/2021,Arriving Late By 30mins
+1997,Jammu,Pune,12/3/2021,6/30/2021,Departed
+2297,Siliguri,Visakhapatnam,5/12/2021,3/2/2021,On Time
+3024,Naqpur,Madurai,3/6/2021,9/24/2021,Arriving Early By 30mins
+2452,New Delhi,Thiruvananthapuram,5/9/2021,12/3/2021,On Time
+4625,Naqpur,Srinagar,12/14/2021,7/17/2021,On Time
+1433,Jammu,Kochi,9/16/2021,10/15/2021,Departing Early By 30mins
+2740,Kolkata,Port Blair,5/10/2021,7/3/2021,On Time
+4478,Port Blair,Lucknow,12/12/2021,10/7/2021,On Time
+3173,Visakhapatnam,Amritsar,10/3/2021,10/5/2021,Departing Early By 30mins
+1100,Pune,Tiruchirappally,9/28/2021,11/19/2021,Departing Late By 30mins
+4534,Srinagar,Port Blair,6/3/2021,12/12/2021,Arriving Early By 30mins
+3421,Chennai,Indore,10/27/2021,6/24/2021,Departed
+4648,Patna,Mangalore,7/13/2021,4/21/2021,Departing Late By 30mins
+2323,Patna,Tiruchirappally,4/17/2021,5/24/2021,On Time
+4216,Bangalore,Mangalore,10/21/2021,6/19/2021,Departing Late By 30mins
+4225,Port Blair,Mumbai,9/26/2021,7/5/2021,Departing Early By 30mins
+4275,Amritsar,Visakhapatnam,2/9/2022,8/31/2021,On Time
+3663,Calicut,Jammu,8/19/2021,6/21/2021,Departed
+2498,Lucknow,Vasco da Gama,7/1/2021,4/14/2021,Departing Late By 30mins
+1444,Mangalore,Siliguri,11/18/2021,10/13/2021,Departing Early By 30mins
+4613,Agartala,Mumbai,6/13/2021,11/4/2021,On Time
+1443,Chandigarh,Kochi,1/24/2022,3/21/2021,On Time
+4134,Mangalore,Kolkata,4/28/2021,4/23/2021,Departing Early By 30mins
+4946,Agartala,Siliguri,1/21/2022,11/1/2021,Arriving Early By 30mins
+2685,Kochi,Agartala,11/21/2021,9/30/2021,Departing Early By 30mins
+1197,Madurai,New Delhi,1/17/2022,10/6/2021,Arriving Late By 30mins
+4088,Kochi,Thiruvananthapuram,8/9/2021,3/28/2021,Departed
+1643,Naqpur,Pune,9/16/2021,3/29/2021,Arriving Early By 30mins
+2678,Calicut,Agartala,1/13/2022,12/8/2021,Departed
+1784,Calicut,Indore,12/21/2021,6/19/2021,On Time
+3450,Srinagar,Chennai,1/12/2022,4/24/2021,Arriving Late By 30mins
+4976,Chandigarh,Indore,11/3/2021,7/6/2021,Departing Late By 30mins
+2141,Srinagar,Indore,7/22/2021,5/2/2021,Departing Late By 30mins
+1916,Mumbai,Tiruchirappally,7/28/2021,3/29/2021,Arriving Late By 30mins
+4835,Visakhapatnam,Kolkata,6/20/2021,12/17/2021,Arriving Late By 30mins
+2860,Chennai,Thiruvananthapuram,7/30/2021,3/21/2021,On Time
+2152,Kochi,Tiruchirappally,2/24/2021,5/30/2021,Arriving Early By 30mins
+3086,Kolkata,Madurai,7/19/2021,7/20/2021,Arriving Late By 30mins
+2765,Agartala,Chennai,4/15/2021,5/30/2021,Departed
+3750,Vasco da Gama,Jaipur,6/21/2021,7/31/2021,Departed
+4356,Kochi,Patna,7/30/2021,11/3/2021,Departing Late By 30mins
+1495,Pune,Chandigarh,5/20/2021,9/1/2021,Departed
+3568,Lucknow,Pune,5/9/2021,2/17/2022,Departing Late By 30mins
+1997,Tiruchirappally,Guwahati,6/8/2021,4/21/2021,On Time
+4765,Pune,Jammu,5/27/2021,4/4/2021,Departing Late By 30mins
+3431,Visakhapatnam,New Delhi,5/24/2021,7/14/2021,Arriving Early By 30mins
+4390,Thiruvananthapuram,Indore,8/21/2021,1/20/2022,Departing Late By 30mins
+1207,Mumbai,Ahmedabad,6/13/2021,9/6/2021,Arriving Late By 30mins
+4607,Jaipur,Mumbai,4/1/2021,10/2/2021,Departing Late By 30mins
+3868,Srinagar,Patna,1/23/2022,10/26/2021,Departing Late By 30mins
+1345,Coimbatore,Ahmedabad,11/13/2021,2/28/2021,Arriving Late By 30mins
+2845,Hyderabad City,Pune,11/8/2021,12/16/2021,Arriving Late By 30mins
+3066,Hyderabad City,Chandigarh,8/22/2021,9/8/2021,Departing Late By 30mins
+2681,Kochi,Hyderabad City,3/29/2021,6/9/2021,Departing Late By 30mins
+2832,Coimbatore,Port Blair,3/19/2021,12/9/2021,Arriving Early By 30mins
+4942,Pune,Amritsar,3/12/2021,5/14/2021,Departing Late By 30mins
+1946,Naqpur,Ahmedabad,7/16/2021,3/18/2021,Arriving Late By 30mins
+3689,Coimbatore,Calicut,5/30/2021,10/22/2021,Departed
+3105,Lucknow,Hyderabad City,1/10/2022,7/30/2021,Arriving Late By 30mins
+1584,Chennai,New Delhi,4/11/2021,5/12/2021,Departed
+4486,Naqpur,Hyderabad City,6/14/2021,11/7/2021,Arriving Early By 30mins
+4144,Amritsar,Madurai,9/26/2021,11/11/2021,Arriving Early By 30mins
+1140,Chandigarh,Srinagar,11/8/2021,3/12/2021,Arriving Early By 30mins
+2826,Thiruvananthapuram,Calicut,10/12/2021,5/28/2021,On Time
+2083,Amritsar,Bangalore,6/11/2021,3/4/2021,On Time
+2499,Chennai,Port Blair,2/20/2022,11/10/2021,Arriving Early By 30mins
+4548,Mumbai,Ahmedabad,10/22/2021,7/14/2021,Arriving Late By 30mins
+1597,Bangalore,Patna,12/1/2021,4/3/2021,Departing Late By 30mins
+1563,Indore,Siliguri,1/9/2022,11/21/2021,Arriving Late By 30mins
+2061,Calicut,Madurai,5/1/2021,3/9/2021,Arriving Early By 30mins
+2688,Vasco da Gama,Visakhapatnam,12/13/2021,3/30/2021,Departing Late By 30mins
+2398,Jaipur,Kolkata,9/19/2021,2/25/2021,Arriving Early By 30mins
+3168,Srinagar,Lucknow,12/29/2021,7/4/2021,Departing Early By 30mins
+4324,Chennai,Indore,5/27/2021,12/1/2021,Arriving Early By 30mins
+4324,Bangalore,Madurai,9/22/2021,3/10/2021,Arriving Late By 30mins
+1841,Indore,Calicut,12/24/2021,10/31/2021,Arriving Late By 30mins
+3634,Vasco da Gama,Kolkata,9/6/2021,5/1/2021,Departing Late By 30mins
+4278,Indore,Calicut,11/20/2021,6/28/2021,Arriving Early By 30mins
+4090,Lucknow,Amritsar,5/31/2021,8/19/2021,Departing Early By 30mins
+4969,Kolkata,Ahmedabad,5/20/2021,2/24/2021,Departing Late By 30mins
+3508,Patna,Visakhapatnam,7/16/2021,9/24/2021,Departing Late By 30mins
+3546,Guwahati,Patna,3/4/2021,1/18/2022,Arriving Early By 30mins
+2373,Vasco da Gama,Agartala,6/21/2021,10/10/2021,On Time
+3224,Ahmedabad,Lucknow,9/25/2021,10/4/2021,Arriving Early By 30mins
+4655,Mumbai,Lucknow,3/6/2021,5/17/2021,Arriving Early By 30mins
+2144,Guwahati,Siliguri,10/22/2021,7/25/2021,Departed
+4556,Patna,Chennai,8/7/2021,3/23/2021,Departed
+2021,Lucknow,Bangalore,10/1/2021,3/10/2021,Departing Early By 30mins
+4535,Lucknow,Indore,10/12/2021,5/19/2021,Arriving Early By 30mins
+1116,Ahmedabad,Agartala,9/19/2021,5/11/2021,Arriving Late By 30mins
+1283,Srinagar,Jammu,12/24/2021,7/23/2021,Departed
+1464,Srinagar,Vasco da Gama,5/23/2021,1/15/2022,Departed
+1974,Mangalore,Coimbatore,8/20/2021,3/29/2021,On Time
+3577,Guwahati,Indore,12/5/2021,10/6/2021,Departing Late By 30mins
+2547,Lucknow,Amritsar,3/4/2021,10/1/2021,Departing Late By 30mins
+4093,Lucknow,Indore,2/6/2022,4/26/2021,Departing Late By 30mins
+2939,Visakhapatnam,Naqpur,10/1/2021,12/3/2021,Departing Late By 30mins
+4808,Naqpur,Patna,5/7/2021,5/14/2021,Departing Early By 30mins
+4550,Kochi,Kochi,4/24/2021,9/28/2021,Departing Early By 30mins
+2640,Coimbatore,Indore,7/2/2021,5/16/2021,Arriving Late By 30mins
+3305,Indore,Vasco da Gama,3/20/2021,4/4/2021,Arriving Late By 30mins
+4363,Amritsar,Tiruchirappally,7/5/2021,2/16/2022,Departed
+1459,Visakhapatnam,New Delhi,10/26/2021,11/22/2021,Arriving Early By 30mins
+3346,Thiruvananthapuram,Ahmedabad,11/19/2021,6/10/2021,Departed
+3044,Calicut,Bangalore,3/26/2021,5/19/2021,Arriving Late By 30mins
+4185,Guwahati,Calicut,9/15/2021,1/11/2022,On Time
+4806,Madurai,Hyderabad City,6/2/2021,6/29/2021,Arriving Late By 30mins
+1219,Guwahati,Jaipur,7/15/2021,1/24/2022,Departing Early By 30mins
+2501,Ahmedabad,Visakhapatnam,7/20/2021,4/24/2021,Arriving Late By 30mins
+2602,Port Blair,Visakhapatnam,12/16/2021,2/9/2022,Departing Late By 30mins
+4039,Jammu,Chennai,12/24/2021,7/20/2021,Departing Early By 30mins
+4879,Ahmedabad,Srinagar,8/20/2021,12/3/2021,Arriving Early By 30mins
+4343,Amritsar,Calicut,1/7/2022,8/19/2021,Arriving Late By 30mins
+4854,Mumbai,Indore,12/10/2021,6/22/2021,Departed
+3872,Srinagar,Coimbatore,11/18/2021,3/13/2021,On Time
+4259,Indore,New Delhi,11/23/2021,11/4/2021,Arriving Late By 30mins
+2394,Vasco da Gama,Kolkata,7/21/2021,2/13/2022,Departing Early By 30mins
+4286,Ahmedabad,Port Blair,5/10/2021,10/20/2021,Arriving Early By 30mins
+3246,Patna,Thiruvananthapuram,12/30/2021,6/27/2021,On Time
+4092,Indore,Guwahati,6/6/2021,4/1/2021,Departed
+2478,New Delhi,Madurai,11/5/2021,6/1/2021,Departing Late By 30mins
+3669,Chennai,Thiruvananthapuram,6/28/2021,4/1/2021,On Time
+3224,Mumbai,Pune,1/23/2022,12/31/2021,Arriving Early By 30mins
+2768,Chennai,Bangalore,4/26/2021,9/2/2021,Departing Late By 30mins
+1212,Coimbatore,Coimbatore,12/13/2021,12/31/2021,Departed
+1118,Patna,Indore,3/14/2021,11/13/2021,Departing Late By 30mins
+4389,Hyderabad City,Mangalore,5/5/2021,6/7/2021,Departed
+2340,New Delhi,Jammu,9/17/2021,12/23/2021,Arriving Early By 30mins
+4088,Visakhapatnam,Guwahati,10/14/2021,2/1/2022,Departing Early By 30mins
+3514,Calicut,New Delhi,6/2/2021,1/3/2022,Departing Late By 30mins
+3876,Siliguri,Visakhapatnam,12/11/2021,9/4/2021,Departed
+4831,Kolkata,Calicut,6/25/2021,12/16/2021,Departing Late By 30mins
+3551,Jaipur,Amritsar,3/11/2021,6/14/2021,Arriving Early By 30mins
+1567,New Delhi,Chandigarh,7/17/2021,3/5/2021,Departing Late By 30mins
+3382,Lucknow,Patna,3/17/2021,4/18/2021,Departing Early By 30mins
+3718,Mumbai,Calicut,10/20/2021,12/9/2021,Departed
+4764,Guwahati,Chandigarh,10/12/2021,2/22/2021,On Time
+2314,Pune,Amritsar,6/7/2021,6/7/2021,Arriving Late By 30mins
+4484,Naqpur,Mangalore,4/30/2021,10/1/2021,On Time
+3177,Amritsar,Agartala,11/28/2021,1/16/2022,Arriving Early By 30mins
+2707,Mumbai,Vasco da Gama,7/8/2021,5/17/2021,Arriving Early By 30mins
+1246,Indore,Bangalore,12/30/2021,5/29/2021,On Time
+1167,Thiruvananthapuram,Kolkata,6/14/2021,11/24/2021,Arriving Early By 30mins
+4573,Ahmedabad,Mangalore,1/31/2022,6/24/2021,Arriving Late By 30mins
+4312,Chennai,Patna,1/28/2022,10/1/2021,On Time
+4731,Calicut,Jammu,6/1/2021,12/29/2021,Departed
+4425,Vasco da Gama,Ahmedabad,8/16/2021,12/29/2021,Arriving Late By 30mins
+2043,Srinagar,Mangalore,4/20/2021,6/19/2021,On Time
+3296,Chennai,Patna,12/9/2021,7/25/2021,Arriving Late By 30mins
+1780,Madurai,Bangalore,6/23/2021,1/7/2022,Departing Early By 30mins
+1428,Jammu,Naqpur,9/25/2021,11/10/2021,Departing Late By 30mins
+3520,Jammu,Coimbatore,7/13/2021,10/10/2021,Arriving Late By 30mins
+2088,Ahmedabad,Bangalore,4/23/2021,3/30/2021,Arriving Late By 30mins
+4888,Agartala,Visakhapatnam,11/29/2021,8/20/2021,Arriving Early By 30mins
+4127,Visakhapatnam,Patna,7/28/2021,2/3/2022,Departed
+4701,Lucknow,Chandigarh,8/24/2021,10/31/2021,On Time
+1209,Srinagar,Jammu,7/20/2021,3/21/2021,Arriving Early By 30mins
+2226,Port Blair,Kolkata,12/13/2021,3/5/2021,Departing Late By 30mins
+4457,Vasco da Gama,Kochi,1/27/2022,8/3/2021,Departing Early By 30mins
+2630,Mangalore,Kochi,6/16/2021,1/28/2022,Departing Early By 30mins
+2618,Bangalore,Vasco da Gama,12/7/2021,8/11/2021,Departing Late By 30mins
+4039,Madurai,Bangalore,4/14/2021,7/4/2021,Arriving Early By 30mins
+3980,Amritsar,Kochi,3/19/2021,10/22/2021,Arriving Early By 30mins
+4626,Pune,New Delhi,2/4/2022,6/9/2021,Departed
+2868,Pune,Agartala,8/29/2021,2/24/2021,Departing Late By 30mins
+1384,Hyderabad City,Lucknow,6/6/2021,10/2/2021,On Time
+1710,Siliguri,Pune,2/13/2022,8/3/2021,Arriving Late By 30mins
+1793,Calicut,Vasco da Gama,5/26/2021,1/13/2022,Arriving Late By 30mins
+4083,Thiruvananthapuram,Pune,8/27/2021,1/30/2022,Departed
+4161,Thiruvananthapuram,Srinagar,11/24/2021,8/2/2021,Arriving Early By 30mins
+3975,Madurai,Bangalore,4/20/2021,9/8/2021,On Time
+4123,Guwahati,Calicut,2/2/2022,2/14/2022,Departed
+3248,New Delhi,Bangalore,7/8/2021,2/5/2022,On Time
+2286,Siliguri,Indore,11/3/2021,1/24/2022,On Time
+1310,Chennai,New Delhi,11/9/2021,2/21/2022,Departing Early By 30mins
+3072,Thiruvananthapuram,Indore,1/30/2022,4/29/2021,On Time
+3765,Chandigarh,New Delhi,11/30/2021,5/19/2021,Departing Early By 30mins
+1514,Port Blair,Srinagar,9/20/2021,6/5/2021,Departed
+3121,Coimbatore,Madurai,1/9/2022,6/6/2021,Departing Late By 30mins
+4223,Patna,Indore,3/5/2021,11/5/2021,Departing Late By 30mins
+4687,Ahmedabad,Indore,5/6/2021,7/19/2021,On Time
+2474,Ahmedabad,Mangalore,12/9/2021,12/24/2021,Departed
+2850,Thiruvananthapuram,Visakhapatnam,3/24/2021,1/18/2022,Arriving Late By 30mins
+3920,Visakhapatnam,Guwahati,9/12/2021,8/8/2021,Departed
+4003,Chandigarh,Kolkata,8/20/2021,4/13/2021,Departing Early By 30mins
+4437,Indore,Tiruchirappally,5/24/2021,11/19/2021,On Time
+1745,Tiruchirappally,Calicut,9/29/2021,10/28/2021,Departing Late By 30mins
+2202,Agartala,Agartala,4/24/2021,11/9/2021,Arriving Early By 30mins
