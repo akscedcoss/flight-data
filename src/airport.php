@@ -17,8 +17,29 @@
         <h1>Airport Dashboard </h1>
 
         <div class="tbl-content">
-            flight numnber
+            <form id='flightSearch'>
+                <label>Flight Number</label>
+                <input type='text' name='flightNo'>
+                <input type="submit">
 
+            </form>
+            <form id='flightUpdate'>
+                <label>From
+                    <select id="from" name="from">
+                        <option value="Alld">alls</option>
+                    </select>
+                </label>
+                <label>To
+                    <input type='text' name='to'>
+                </label><br>
+                <label>Estimated Arrival
+                    <input type='text' name='arrival'>
+                </label><br>
+                <label>Estimated Departure
+                    <input type='text' name='departure'>
+                </label><br>
+                <input type="submit" value="Update">
+            </form>
         </div>
     </section>
 
